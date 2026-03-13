@@ -1,0 +1,4 @@
+whisper
+openai-whisper
+pydub
+ffmpeg-python
